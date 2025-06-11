@@ -1,5 +1,5 @@
 # backend
-
+Note: To view frontend, check out this repository
 ## Setup
 
 ### .env
