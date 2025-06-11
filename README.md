@@ -1,5 +1,5 @@
 # backend
-Note: To view frontend, check out this repository
+Note: To view frontend, check out [this repository](https://github.com/faraanj/opal-frontend)
 ## Setup
 
 ### .env
